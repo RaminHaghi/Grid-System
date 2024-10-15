@@ -20,6 +20,14 @@ body {
     margin-left: auto;
 }
 
+/*
+    Helper Class
+*/
+.content {
+    background-color: #000;
+    height: 80px;
+    margin-bottom: 5px;
+}
 
 /*
     Grid System Styles
