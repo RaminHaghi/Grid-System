@@ -109,7 +109,7 @@ body {
 /*
     Break Points
 */
-@media all and (min-width: 576px /*sm*/) {
+@media all and (min-width: 576px ) {
     .container {
         width: 540px;
     }
@@ -175,7 +175,7 @@ body {
     }
 }
 
-@media all and (min-width: 768px /*md*/) {
+@media all and (min-width: 768px) {
     .container {
         width: 720px;
     }
@@ -241,7 +241,7 @@ body {
     }
 }
 
-@media all and (min-width: 992px/*lg*/) {
+@media all and (min-width: 992px) {
     .container {
         width: 920px;
     }
@@ -307,7 +307,7 @@ body {
     }
 }
 
-@media all and (min-width: 1200px/*xl*/) {
+@media all and (min-width: 1200px) {
     .container {
         width: 1140px;
     }
@@ -374,7 +374,7 @@ body {
 
 }
 
-@media all and (min-width: 1400px /*xxl*/) {
+@media all and (min-width: 1400px) {
     .container {
         width: 1370px;
     }
