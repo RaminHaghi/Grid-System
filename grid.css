@@ -229,7 +229,7 @@ html {
 
 @media all and (min-width: 992px) {
     .container {
-        width: 920px;
+        width: 960px;
     }
 
     .col-lg-1 {
