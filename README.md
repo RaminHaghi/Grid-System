@@ -3,6 +3,7 @@
 ---
 
 - <p>For example: By adding this <code>col-md-3</code> class, when it reaches the page size and break point 768px, changes will be applied to this class. And other sizes in the same way.</p>
+- ##### **⭐ This Grid system is mobile first**
 
 - ##### *<p>sm = 576px / md = 768px / lg = 992px / xl = 1200px / xxl = 1400px </p>*
 
