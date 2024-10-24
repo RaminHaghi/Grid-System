@@ -8,43 +8,28 @@ html {
     box-sizing: inherit;
 }
 
-body {
-    margin: 0;
-}
-
 .container {
     width: 100%;
     padding-right: 15px;
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
-    position: relative;
 }
 
 /*
-    Helper Class
-*/
-.content {
-    background-color: #000;
-    height: 80px;
-    margin-bottom: 5px;
-}
-
-/*
-    Grid System Styles
+    Grid System 
 */
 .row {
     display: flex;
     flex-wrap: wrap;
     margin-right: -15px;
     margin-left: -15px;
-    margin-bottom: 30px;
 }
 
 .row>* {
-    padding-right: 5px;
-    padding-left: 5px;
-    margin-bottom: 12px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-bottom: 30px;
 }
 
 .col-1 {
