@@ -32,6 +32,11 @@ html {
     margin-bottom: 30px;
 }
 
+.col {
+    width: 100%;
+    flex-grow: 1;
+}
+
 .col-1 {
     width: 8.333333%;
     flex: 0 0 auto;
